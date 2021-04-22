@@ -428,10 +428,6 @@
 .contact .right form .textarea textarea:focus{
     border-color: #c54444;
 }
-.contact .right form .field input::placeholder,
-.contact .right form .textarea textarea::placeholder{
-    color: rgb(187, 187, 187);
-}
 .contact .right form .textarea textarea{
   padding-top: 10px;
   resize: none;
