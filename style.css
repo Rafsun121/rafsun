@@ -428,7 +428,7 @@
 .contact .right form .textarea textarea:focus{
     border-color: #c54444;
 }
-.contact .right form .field input,
+.contact .right form .field input::placeholder,
 .contact .right form .textarea textarea::placeholder{
     color: rgb(187, 187, 187);
 }
